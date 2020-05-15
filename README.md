@@ -3,8 +3,8 @@
 ### Encontros
 Nossos encontros são gratuitos e abertos ao público em geral. São realizados semanalmente por nossos membros em:
 
-> Sextas-Feiras
-> Das 15h às 19h
+> Sextas-Feiras  
+> Das 15h às 19h  
 > Rua Vitória 943, sala comercial da esquina
 
 ### Hackerspace?

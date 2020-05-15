@@ -13,7 +13,7 @@ Hackerspaces são espaços operados por comunidades compostas por pessoas com os
 O Hackerspace Maringá tem como objetivo promover um Hackerspace na cidade de Maringá. Somos uma Associação Privada sem fins lucrativos, sediada na Vila Esperança em Maringá, na Rua Vitória, 943 em uma sala comercial de esquina. Fomos fundados no dia 14/03/2014, com o CNPJ: 20276932000179.
 
 ## Estatuto
-O estatuto que atualmente rege nossa instituição pode ser baixado [clicando aqui]("./files/Hackerspace Maringá - Estatuto.pdf")
+O estatuto que atualmente rege nossa instituição pode ser baixado [clicando aqui](./files/Hackerspace%20Maringá%20-%20Estatuto.pdf)
 
 ## Lemas
 - I - Promover a cultura Hacker, estimulando a criatividade e o trabalho colaborativo e interdisciplinar, para o desenvolvimento de invenções  
